@@ -2,7 +2,7 @@
   "name": "NTC Coin",
   "symbol": "NTC",
   "description": "The official NTC Coin — fueling VIP access, content drops, and rewards across the NiceTouchCleaners platform.",
-  "image": "https://raw.githubusercontent.com/Stuntt90/ntc-token-metadata/main/9mbqBtizm49iRxFDsiQ7pZzQ1yWez54bgYo527RGEWyn.png
+  "image": ""https://raw.githubusercontent.com/stuntt90/ntc-token-metadata/main/CJVXXowAB9922HWEPAmbHB7ohUjfiotHpzEBQHY8fVKk.png
 ",
   "decimals": 9,
   "seller_fee_basis_points": 0,
@@ -19,7 +19,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Stuntt90/ntc-token-metadata/main/9mbqBtizm49iRxFDsiQ7pZzQ1yWez54bgYo527RGEWyn.png
+        "uri": ""https://raw.githubusercontent.com/stuntt90/ntc-token-metadata/main/CJVXXowAB9922HWEPAmbHB7ohUjfiotHpzEBQHY8fVKk.png
 ",
         "type": "image/png"
       }
